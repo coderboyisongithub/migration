@@ -1,6 +1,0 @@
-#FILES
-cdc test_files/css
-cdc test_files/icon
-cdc test_files/m=viewer_base
-ruless.txt
-#END
